@@ -1,0 +1,522 @@
+{
+  "obstetricia": [
+    {
+      "nome": "Dra. Mariana Soares",
+      "email": "mariana.soares@hospitalexemplo.com",
+      "crm": "CRM-SP 123456"
+    },
+    {
+      "nome": "Dr. Renato Bastos",
+      "email": "renato.bastos@hospitalexemplo.com",
+      "crm": "CRM-SP 234567"
+    },
+    {
+      "nome": "Dra. Juliana Rocha",
+      "email": "juliana.rocha@hospitalexemplo.com",
+      "crm": "CRM-SP 345678"
+    },
+    {
+      "nome": "Dr. Thiago Monteiro",
+      "email": "thiago.monteiro@hospitalexemplo.com",
+      "crm": "CRM-SP 456789"
+    },
+    {
+      "nome": "Dra. Paula Nascimento",
+      "email": "paula.nascimento@hospitalexemplo.com",
+      "crm": "CRM-SP 567890"
+    },
+    {
+      "nome": "Dr. Eduardo Lima",
+      "email": "eduardo.lima@hospitalexemplo.com",
+      "crm": "CRM-SP 678901"
+    },
+    {
+      "nome": "Dra. Camila Duarte",
+      "email": "camila.duarte@hospitalexemplo.com",
+      "crm": "CRM-SP 789012"
+    },
+    {
+      "nome": "Dr. Lucas Ferreira",
+      "email": "lucas.ferreira@hospitalexemplo.com",
+      "crm": "CRM-SP 890123"
+    },
+    {
+      "nome": "Dra. Ana Carolina Pires",
+      "email": "ana.pires@hospitalexemplo.com",
+      "crm": "CRM-SP 901234"
+    },
+    {
+      "nome": "Dr. Marcelo Azevedo",
+      "email": "marcelo.azevedo@hospitalexemplo.com",
+      "crm": "CRM-SP 112233"
+    }
+  ],
+  "pediatria": [
+    {
+      "nome": "Dra. Fernanda Lima",
+      "email": "fernanda.lima@hospitalexemplo.com",
+      "crm": "CRM-SP 100001"
+    },
+    {
+      "nome": "Dr. Ricardo Alves",
+      "email": "ricardo.alves@hospitalexemplo.com",
+      "crm": "CRM-SP 100002"
+    },
+    {
+      "nome": "Dra. Patrícia Borges",
+      "email": "patricia.borges@hospitalexemplo.com",
+      "crm": "CRM-SP 100003"
+    },
+    {
+      "nome": "Dr. André Nunes",
+      "email": "andre.nunes@hospitalexemplo.com",
+      "crm": "CRM-SP 100004"
+    },
+    {
+      "nome": "Dra. Lívia Costa",
+      "email": "livia.costa@hospitalexemplo.com",
+      "crm": "CRM-SP 100005"
+    },
+    {
+      "nome": "Dr. Fábio Mota",
+      "email": "fabio.mota@hospitalexemplo.com",
+      "crm": "CRM-SP 100006"
+    },
+    {
+      "nome": "Dra. Isabel Mendonça",
+      "email": "isabel.mendonca@hospitalexemplo.com",
+      "crm": "CRM-SP 100007"
+    },
+    {
+      "nome": "Dr. Bruno Cunha",
+      "email": "bruno.cunha@hospitalexemplo.com",
+      "crm": "CRM-SP 100008"
+    },
+    {
+      "nome": "Dra. Rafaela Dias",
+      "email": "rafaela.dias@hospitalexemplo.com",
+      "crm": "CRM-SP 100009"
+    },
+    {
+      "nome": "Dr. Murilo Oliveira",
+      "email": "murilo.oliveira@hospitalexemplo.com",
+      "crm": "CRM-SP 100010"
+    }
+  ],
+  "ginecologia": [
+    {
+      "nome": "Dra. Simone Ribeiro",
+      "email": "simone.ribeiro@hospitalexemplo.com",
+      "crm": "CRM-SP 200001"
+    },
+    {
+      "nome": "Dr. Jorge Amaral",
+      "email": "jorge.amaral@hospitalexemplo.com",
+      "crm": "CRM-SP 200002"
+    },
+    {
+      "nome": "Dra. Milena Araujo",
+      "email": "milena.araujo@hospitalexemplo.com",
+      "crm": "CRM-SP 200003"
+    },
+    {
+      "nome": "Dr. Sérgio Lima",
+      "email": "sergio.lima@hospitalexemplo.com",
+      "crm": "CRM-SP 200004"
+    },
+    {
+      "nome": "Dra. Tainá Freitas",
+      "email": "taina.freitas@hospitalexemplo.com",
+      "crm": "CRM-SP 200005"
+    },
+    {
+      "nome": "Dr. Alexandre Pires",
+      "email": "alexandre.pires@hospitalexemplo.com",
+      "crm": "CRM-SP 200006"
+    },
+    {
+      "nome": "Dra. Roberta Martins",
+      "email": "roberta.martins@hospitalexemplo.com",
+      "crm": "CRM-SP 200007"
+    },
+    {
+      "nome": "Dr. Daniel Rezende",
+      "email": "daniel.rezende@hospitalexemplo.com",
+      "crm": "CRM-SP 200008"
+    },
+    {
+      "nome": "Dra. Elaine Souza",
+      "email": "elaine.souza@hospitalexemplo.com",
+      "crm": "CRM-SP 200009"
+    },
+    {
+      "nome": "Dr. Rafael Neves",
+      "email": "rafael.neves@hospitalexemplo.com",
+      "crm": "CRM-SP 200010"
+    }
+  ],
+  "clinica_geral": [
+    {
+      "nome": "Dr. João Batista",
+      "email": "joao.batista@hospitalexemplo.com",
+      "crm": "CRM-SP 300001"
+    },
+    {
+      "nome": "Dra. Carla Mendes",
+      "email": "carla.mendes@hospitalexemplo.com",
+      "crm": "CRM-SP 300002"
+    },
+    {
+      "nome": "Dr. Henrique Silva",
+      "email": "henrique.silva@hospitalexemplo.com",
+      "crm": "CRM-SP 300003"
+    },
+    {
+      "nome": "Dra. Luciana Moraes",
+      "email": "luciana.moraes@hospitalexemplo.com",
+      "crm": "CRM-SP 300004"
+    },
+    {
+      "nome": "Dr. Diego Martins",
+      "email": "diego.martins@hospitalexemplo.com",
+      "crm": "CRM-SP 300005"
+    },
+    {
+      "nome": "Dra. Natália Campos",
+      "email": "natalia.campos@hospitalexemplo.com",
+      "crm": "CRM-SP 300006"
+    },
+    {
+      "nome": "Dr. Rafael Costa",
+      "email": "rafael.costa@hospitalexemplo.com",
+      "crm": "CRM-SP 300007"
+    },
+    {
+      "nome": "Dra. Heloísa Barreto",
+      "email": "heloisa.barreto@hospitalexemplo.com",
+      "crm": "CRM-SP 300008"
+    },
+    {
+      "nome": "Dr. Pedro Gonçalves",
+      "email": "pedro.goncalves@hospitalexemplo.com",
+      "crm": "CRM-SP 300009"
+    },
+    {
+      "nome": "Dra. Vanessa Luz",
+      "email": "vanessa.luz@hospitalexemplo.com",
+      "crm": "CRM-SP 300010"
+    }
+  ],
+  "cardiologia": [
+    {
+      "nome": "Dr. Alberto Sanches",
+      "email": "alberto.sanches@hospitalexemplo.com",
+      "crm": "CRM-SP 400001"
+    },
+    {
+      "nome": "Dra. Larissa Paiva",
+      "email": "larissa.paiva@hospitalexemplo.com",
+      "crm": "CRM-SP 400002"
+    },
+    {
+      "nome": "Dr. Carlos Moura",
+      "email": "carlos.moura@hospitalexemplo.com",
+      "crm": "CRM-SP 400003"
+    },
+    {
+      "nome": "Dra. Bianca Torres",
+      "email": "bianca.torres@hospitalexemplo.com",
+      "crm": "CRM-SP 400004"
+    },
+    {
+      "nome": "Dr. Hugo Lacerda",
+      "email": "hugo.lacerda@hospitalexemplo.com",
+      "crm": "CRM-SP 400005"
+    },
+    {
+      "nome": "Dra. Viviane Matos",
+      "email": "viviane.matos@hospitalexemplo.com",
+      "crm": "CRM-SP 400006"
+    },
+    {
+      "nome": "Dr. Danilo Figueiredo",
+      "email": "danilo.figueiredo@hospitalexemplo.com",
+      "crm": "CRM-SP 400007"
+    },
+    {
+      "nome": "Dra. Thaís Miranda",
+      "email": "thais.miranda@hospitalexemplo.com",
+      "crm": "CRM-SP 400008"
+    },
+    {
+      "nome": "Dr. Felipe Andrade",
+      "email": "felipe.andrade@hospitalexemplo.com",
+      "crm": "CRM-SP 400009"
+    },
+    {
+      "nome": "Dra. Regina Lopes",
+      "email": "regina.lopes@hospitalexemplo.com",
+      "crm": "CRM-SP 400010"
+    }
+  ],
+  "ortopedia": [
+    {
+      "nome": "Dr. Jorge Fernandes",
+      "email": "jorge.fernandes@hospitalexemplo.com",
+      "crm": "CRM-SP 500001"
+    },
+    {
+      "nome": "Dra. Priscila Lima",
+      "email": "priscila.lima@hospitalexemplo.com",
+      "crm": "CRM-SP 500002"
+    },
+    {
+      "nome": "Dr. Rodrigo Matias",
+      "email": "rodrigo.matias@hospitalexemplo.com",
+      "crm": "CRM-SP 500003"
+    },
+    {
+      "nome": "Dra. Luciana Goulart",
+      "email": "luciana.goulart@hospitalexemplo.com",
+      "crm": "CRM-SP 500004"
+    },
+    {
+      "nome": "Dr. Alexandre Meireles",
+      "email": "alexandre.meireles@hospitalexemplo.com",
+      "crm": "CRM-SP 500005"
+    },
+    {
+      "nome": "Dra. Paula Salgado",
+      "email": "paula.salgado@hospitalexemplo.com",
+      "crm": "CRM-SP 500006"
+    },
+    {
+      "nome": "Dr. Maurício Teixeira",
+      "email": "mauricio.teixeira@hospitalexemplo.com",
+      "crm": "CRM-SP 500007"
+    },
+    {
+      "nome": "Dra. Renata Mourão",
+      "email": "renata.mourao@hospitalexemplo.com",
+      "crm": "CRM-SP 500008"
+    },
+    {
+      "nome": "Dr. Leandro Campos",
+      "email": "leandro.campos@hospitalexemplo.com",
+      "crm": "CRM-SP 500009"
+    },
+    {
+      "nome": "Dra. Patrícia Lemos",
+      "email": "patricia.lemos@hospitalexemplo.com",
+      "crm": "CRM-SP 500010"
+    }
+  ],
+  "neurologia": [
+    {
+      "nome": "Dr. Eduardo Brito",
+      "email": "eduardo.brito@hospitalexemplo.com",
+      "crm": "CRM-SP 600001"
+    },
+    {
+      "nome": "Dra. Clara Ribeiro",
+      "email": "clara.ribeiro@hospitalexemplo.com",
+      "crm": "CRM-SP 600002"
+    },
+    {
+      "nome": "Dr. Mateus Freire",
+      "email": "mateus.freire@hospitalexemplo.com",
+      "crm": "CRM-SP 600003"
+    },
+    {
+      "nome": "Dra. Silvia Rocha",
+      "email": "silvia.rocha@hospitalexemplo.com",
+      "crm": "CRM-SP 600004"
+    },
+    {
+      "nome": "Dr. Bruno Cabral",
+      "email": "bruno.cabral@hospitalexemplo.com",
+      "crm": "CRM-SP 600005"
+    },
+    {
+      "nome": "Dra. Juliana Ramos",
+      "email": "juliana.ramos@hospitalexemplo.com",
+      "crm": "CRM-SP 600006"
+    },
+    {
+      "nome": "Dr. Henrique Valente",
+      "email": "henrique.valente@hospitalexemplo.com",
+      "crm": "CRM-SP 600007"
+    },
+    {
+      "nome": "Dra. Tereza Diniz",
+      "email": "tereza.diniz@hospitalexemplo.com",
+      "crm": "CRM-SP 600008"
+    },
+    {
+      "nome": "Dr. Álvaro Cunha",
+      "email": "alvaro.cunha@hospitalexemplo.com",
+      "crm": "CRM-SP 600009"
+    },
+    {
+      "nome": "Dra. Mônica Duarte",
+      "email": "monica.duarte@hospitalexemplo.com",
+      "crm": "CRM-SP 600010"
+    }
+  ],
+  "dermatologia": [
+    {
+      "nome": "Dra. Amanda Silva",
+      "email": "amanda.silva@hospitalexemplo.com",
+      "crm": "CRM-SP 700001"
+    },
+    {
+      "nome": "Dr. Ivan Cardoso",
+      "email": "ivan.cardoso@hospitalexemplo.com",
+      "crm": "CRM-SP 700002"
+    },
+    {
+      "nome": "Dra. Karina Rezende",
+      "email": "karina.rezende@hospitalexemplo.com",
+      "crm": "CRM-SP 700003"
+    },
+    {
+      "nome": "Dr. Otávio Franco",
+      "email": "otavio.franco@hospitalexemplo.com",
+      "crm": "CRM-SP 700004"
+    },
+    {
+      "nome": "Dra. Fabiana Almeida",
+      "email": "fabiana.almeida@hospitalexemplo.com",
+      "crm": "CRM-SP 700005"
+    },
+    {
+      "nome": "Dr. Guilherme Santos",
+      "email": "guilherme.santos@hospitalexemplo.com",
+      "crm": "CRM-SP 700006"
+    },
+    {
+      "nome": "Dra. Sílvia Luz",
+      "email": "silvia.luz@hospitalexemplo.com",
+      "crm": "CRM-SP 700007"
+    },
+    {
+      "nome": "Dr. Rafael Nascimento",
+      "email": "rafael.nascimento@hospitalexemplo.com",
+      "crm": "CRM-SP 700008"
+    },
+    {
+      "nome": "Dra. Elisa Corrêa",
+      "email": "elisa.correa@hospitalexemplo.com",
+      "crm": "CRM-SP 700009"
+    },
+    {
+      "nome": "Dr. Marcelo Vasques",
+      "email": "marcelo.vasques@hospitalexemplo.com",
+      "crm": "CRM-SP 700010"
+    }
+  ],
+  "psiquiatria": [
+    {
+      "nome": "Dr. Leonardo Sampaio",
+      "email": "leonardo.sampaio@hospitalexemplo.com",
+      "crm": "CRM-SP 800001"
+    },
+    {
+      "nome": "Dra. Viviane Rocha",
+      "email": "viviane.rocha@hospitalexemplo.com",
+      "crm": "CRM-SP 800002"
+    },
+    {
+      "nome": "Dr. Rodrigo Assis",
+      "email": "rodrigo.assis@hospitalexemplo.com",
+      "crm": "CRM-SP 800003"
+    },
+    {
+      "nome": "Dra. Lorena Castro",
+      "email": "lorena.castro@hospitalexemplo.com",
+      "crm": "CRM-SP 800004"
+    },
+    {
+      "nome": "Dr. Matheus Prado",
+      "email": "matheus.prado@hospitalexemplo.com",
+      "crm": "CRM-SP 800005"
+    },
+    {
+      "nome": "Dra. Renata Martins",
+      "email": "renata.martins@hospitalexemplo.com",
+      "crm": "CRM-SP 800006"
+    },
+    {
+      "nome": "Dr. Vitor Barbosa",
+      "email": "vitor.barbosa@hospitalexemplo.com",
+      "crm": "CRM-SP 800007"
+    },
+    {
+      "nome": "Dra. Tatiane Oliveira",
+      "email": "tatiane.oliveira@hospitalexemplo.com",
+      "crm": "CRM-SP 800008"
+    },
+    {
+      "nome": "Dr. Bruno Freitas",
+      "email": "bruno.freitas@hospitalexemplo.com",
+      "crm": "CRM-SP 800009"
+    },
+    {
+      "nome": "Dra. Letícia Andrade",
+      "email": "leticia.andrade@hospitalexemplo.com",
+      "crm": "CRM-SP 800010"
+    }
+  ],
+  "urologia": [
+    {
+      "nome": "Dr. Fernando Moreira",
+      "email": "fernando.moreira@hospitalexemplo.com",
+      "crm": "CRM-SP 900001"
+    },
+    {
+      "nome": "Dra. Gabriela Rocha",
+      "email": "gabriela.rocha@hospitalexemplo.com",
+      "crm": "CRM-SP 900002"
+    },
+    {
+      "nome": "Dr. Thiago Lemos",
+      "email": "thiago.lemos@hospitalexemplo.com",
+      "crm": "CRM-SP 900003"
+    },
+    {
+      "nome": "Dra. Denise Cunha",
+      "email": "denise.cunha@hospitalexemplo.com",
+      "crm": "CRM-SP 900004"
+    },
+    {
+      "nome": "Dr. Rafael Silveira",
+      "email": "rafael.silveira@hospitalexemplo.com",
+      "crm": "CRM-SP 900005"
+    },
+    {
+      "nome": "Dra. Aline Fonseca",
+      "email": "aline.fonseca@hospitalexemplo.com",
+      "crm": "CRM-SP 900006"
+    },
+    {
+      "nome": "Dr. João Carlos",
+      "email": "joao.carlos@hospitalexemplo.com",
+      "crm": "CRM-SP 900007"
+    },
+    {
+      "nome": "Dra. Érica Moreira",
+      "email": "erica.moreira@hospitalexemplo.com",
+      "crm": "CRM-SP 900008"
+    },
+    {
+      "nome": "Dr. Caio Ribeiro",
+      "email": "caio.ribeiro@hospitalexemplo.com",
+      "crm": "CRM-SP 900009"
+    },
+    {
+      "nome": "Dra. Patrícia Moretti",
+      "email": "patricia.moretti@hospitalexemplo.com",
+      "crm": "CRM-SP 900010"
+    }
+  ]
+}
