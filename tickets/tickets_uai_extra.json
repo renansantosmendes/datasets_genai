@@ -1,0 +1,604 @@
+{
+  "tickets": [
+    {
+      "ticket": "Identificador: TCK-2025-101\nCliente: Banco Futuro\nImpacto do Problema: O sistema de classificação de imagens médicas está falhando em detectar microlesões.\nE-mail de Contato: suporte@bancofuturo.com\nDevolutiva da uAI: Estamos ampliando o dataset com imagens anotadas e aplicando data augmentation.",
+      "data_incidente": "2025-03-08"
+    },
+    {
+      "ticket": "Identificador: TCK-2025-102\nCliente: Metalúrgica Estrela\nImpacto do Problema: O pipeline de Big Data não está processando logs de sensores em tempo real.\nE-mail de Contato: engenharia@estrela.ind.br\nDevolutiva da uAI: Estamos aumentando a capacidade de streaming e aplicando otimizações em Spark.",
+      "data_incidente": "2025-02-20"
+    },
+    {
+      "ticket": "Identificador: TCK-2025-103\nCliente: Construtora Beta\nImpacto do Problema: O modelo de NLP em inglês está misturando idiomas nas respostas.\nE-mail de Contato: suporte@construtorabeta.com\nDevolutiva da uAI: Estamos aplicando filtros de pré-processamento e embeddings multilíngues.",
+      "data_incidente": "2025-02-08"
+    },
+    {
+      "ticket": "Identificador: TCK-2025-104\nCliente: Universidade Federal Digital\nImpacto do Problema: O sistema de monitoramento preditivo de máquinas não está antecipando falhas críticas.\nE-mail de Contato: ti@ufdigital.edu.br\nDevolutiva da uAI: Estamos revisando a janela temporal de análise e incorporando novos sensores ao modelo.",
+      "data_incidente": "2025-02-09"
+    },
+    {
+      "ticket": "Identificador: TCK-2025-105\nCliente: Clínica Bem Estar\nImpacto do Problema: O modelo de detecção de fraudes em transações online está com alta taxa de falso-negativo.\nE-mail de Contato: atendimento@bemestar.com\nDevolutiva da uAI: Estamos ajustando hiperparâmetros e adicionando técnicas de ensemble learning.",
+      "data_incidente": "2025-03-01"
+    },
+    {
+      "ticket": "Identificador: TCK-2025-106\nCliente: Universidade Federal Digital\nImpacto do Problema: O modelo de NLP em inglês está misturando idiomas nas respostas.\nE-mail de Contato: ti@ufdigital.edu.br\nDevolutiva da uAI: Estamos aplicando filtros de pré-processamento e embeddings multilíngues.",
+      "data_incidente": "2025-03-11"
+    },
+    {
+      "ticket": "Identificador: TCK-2025-107\nCliente: Construtora Beta\nImpacto do Problema: O OCR jurídico não está conseguindo interpretar cláusulas manuscritas em contratos digitalizados.\nE-mail de Contato: suporte@construtorabeta.com\nDevolutiva da uAI: Estamos aplicando modelos híbridos de OCR e NLP especializados em linguagem jurídica.",
+      "data_incidente": "2025-02-13"
+    },
+    {
+      "ticket": "Identificador: TCK-2025-108\nCliente: Construtora Beta\nImpacto do Problema: O chatbot de suporte em saúde não está reconhecendo sintomas raros descritos pelos pacientes.\nE-mail de Contato: suporte@construtorabeta.com\nDevolutiva da uAI: Estamos treinando o modelo com literatura médica adicional e ampliando a base de sintomas.",
+      "data_incidente": "2025-02-12"
+    },
+    {
+      "ticket": "Identificador: TCK-2025-109\nCliente: Universidade Federal Digital\nImpacto do Problema: O gerador de relatórios automatizados está apresentando duplicidade de registros.\nE-mail de Contato: ti@ufdigital.edu.br\nDevolutiva da uAI: Estamos ajustando a lógica de deduplicação no pipeline de geração de relatórios.",
+      "data_incidente": "2025-02-18"
+    },
+    {
+      "ticket": "Identificador: TCK-2025-110\nCliente: DataAnalytics Corp\nImpacto do Problema: O OCR jurídico não está conseguindo interpretar cláusulas manuscritas em contratos digitalizados.\nE-mail de Contato: analytics@dacorp.com\nDevolutiva da uAI: Estamos aplicando modelos híbridos de OCR e NLP especializados em linguagem jurídica.",
+      "data_incidente": "2025-02-04"
+    },
+    {
+      "ticket": "Identificador: TCK-2025-111\nCliente: Construtora Beta\nImpacto do Problema: O modelo de NLP em inglês está misturando idiomas nas respostas.\nE-mail de Contato: suporte@construtorabeta.com\nDevolutiva da uAI: Estamos aplicando filtros de pré-processamento e embeddings multilíngues.",
+      "data_incidente": "2025-02-02"
+    },
+    {
+      "ticket": "Identificador: TCK-2025-112\nCliente: DataAnalytics Corp\nImpacto do Problema: O OCR jurídico não está conseguindo interpretar cláusulas manuscritas em contratos digitalizados.\nE-mail de Contato: analytics@dacorp.com\nDevolutiva da uAI: Estamos aplicando modelos híbridos de OCR e NLP especializados em linguagem jurídica.",
+      "data_incidente": "2025-02-19"
+    },
+    {
+      "ticket": "Identificador: TCK-2025-113\nCliente: Rede de Farmácias Saúde+\nImpacto do Problema: O motor de recomendação de investimentos está sugerindo ativos de risco alto para perfis conservadores.\nE-mail de Contato: contato@saudeplus.com\nDevolutiva da uAI: Estamos ajustando o modelo de segmentação de clientes e recalibrando perfis de risco.",
+      "data_incidente": "2025-03-13"
+    },
+    {
+      "ticket": "Identificador: TCK-2025-114\nCliente: Clínica Bem Estar\nImpacto do Problema: O sistema de classificação de imagens médicas está falhando em detectar microlesões.\nE-mail de Contato: atendimento@bemestar.com\nDevolutiva da uAI: Estamos ampliando o dataset com imagens anotadas e aplicando data augmentation.",
+      "data_incidente": "2025-03-26"
+    },
+    {
+      "ticket": "Identificador: TCK-2025-115\nCliente: Construtora Beta\nImpacto do Problema: O sistema de análise de crédito está rejeitando clientes com bom histórico.\nE-mail de Contato: suporte@construtorabeta.com\nDevolutiva da uAI: Estamos aplicando técnicas de explainable AI para revisar as variáveis de decisão.",
+      "data_incidente": "2025-03-18"
+    },
+    {
+      "ticket": "Identificador: TCK-2025-116\nCliente: Metalúrgica Estrela\nImpacto do Problema: O sistema de classificação de imagens médicas está falhando em detectar microlesões.\nE-mail de Contato: engenharia@estrela.ind.br\nDevolutiva da uAI: Estamos ampliando o dataset com imagens anotadas e aplicando data augmentation.",
+      "data_incidente": "2025-03-21"
+    },
+    {
+      "ticket": "Identificador: TCK-2025-117\nCliente: Metalúrgica Estrela\nImpacto do Problema: O sistema de análise de crédito está rejeitando clientes com bom histórico.\nE-mail de Contato: engenharia@estrela.ind.br\nDevolutiva da uAI: Estamos aplicando técnicas de explainable AI para revisar as variáveis de decisão.",
+      "data_incidente": "2025-02-03"
+    },
+    {
+      "ticket": "Identificador: TCK-2025-118\nCliente: DataAnalytics Corp\nImpacto do Problema: O pipeline de Big Data não está processando logs de sensores em tempo real.\nE-mail de Contato: analytics@dacorp.com\nDevolutiva da uAI: Estamos aumentando a capacidade de streaming e aplicando otimizações em Spark.",
+      "data_incidente": "2025-03-03"
+    },
+    {
+      "ticket": "Identificador: TCK-2025-119\nCliente: Clínica Bem Estar\nImpacto do Problema: O sistema de classificação de imagens médicas está falhando em detectar microlesões.\nE-mail de Contato: atendimento@bemestar.com\nDevolutiva da uAI: Estamos ampliando o dataset com imagens anotadas e aplicando data augmentation.",
+      "data_incidente": "2025-02-18"
+    },
+    {
+      "ticket": "Identificador: TCK-2025-120\nCliente: DataAnalytics Corp\nImpacto do Problema: O pipeline de Big Data não está processando logs de sensores em tempo real.\nE-mail de Contato: analytics@dacorp.com\nDevolutiva da uAI: Estamos aumentando a capacidade de streaming e aplicando otimizações em Spark.",
+      "data_incidente": "2025-02-09"
+    },
+    {
+      "ticket": "Identificador: TCK-2025-121\nCliente: Seguros Horizonte\nImpacto do Problema: O chatbot de suporte em saúde não está reconhecendo sintomas raros descritos pelos pacientes.\nE-mail de Contato: helpdesk@seguroshorizonte.com\nDevolutiva da uAI: Estamos treinando o modelo com literatura médica adicional e ampliando a base de sintomas.",
+      "data_incidente": "2025-03-10"
+    },
+    {
+      "ticket": "Identificador: TCK-2025-122\nCliente: Hospital Vida Nova\nImpacto do Problema: O chatbot de suporte em saúde não está reconhecendo sintomas raros descritos pelos pacientes.\nE-mail de Contato: contato@vidanova.org\nDevolutiva da uAI: Estamos treinando o modelo com literatura médica adicional e ampliando a base de sintomas.",
+      "data_incidente": "2025-03-15"
+    },
+    {
+      "ticket": "Identificador: TCK-2025-123\nCliente: Seguros Horizonte\nImpacto do Problema: O modelo de NLP em inglês está misturando idiomas nas respostas.\nE-mail de Contato: helpdesk@seguroshorizonte.com\nDevolutiva da uAI: Estamos aplicando filtros de pré-processamento e embeddings multilíngues.",
+      "data_incidente": "2025-02-27"
+    },
+    {
+      "ticket": "Identificador: TCK-2025-124\nCliente: Universidade Federal Digital\nImpacto do Problema: O gerador de relatórios automatizados está apresentando duplicidade de registros.\nE-mail de Contato: ti@ufdigital.edu.br\nDevolutiva da uAI: Estamos ajustando a lógica de deduplicação no pipeline de geração de relatórios.",
+      "data_incidente": "2025-03-23"
+    },
+    {
+      "ticket": "Identificador: TCK-2025-125\nCliente: Seguros Horizonte\nImpacto do Problema: O sistema de monitoramento preditivo de máquinas não está antecipando falhas críticas.\nE-mail de Contato: helpdesk@seguroshorizonte.com\nDevolutiva da uAI: Estamos revisando a janela temporal de análise e incorporando novos sensores ao modelo.",
+      "data_incidente": "2025-03-23"
+    },
+    {
+      "ticket": "Identificador: TCK-2025-126\nCliente: Marketplace MegaShop\nImpacto do Problema: O motor de recomendação de investimentos está sugerindo ativos de risco alto para perfis conservadores.\nE-mail de Contato: suporte@megashop.com\nDevolutiva da uAI: Estamos ajustando o modelo de segmentação de clientes e recalibrando perfis de risco.",
+      "data_incidente": "2025-03-06"
+    },
+    {
+      "ticket": "Identificador: TCK-2025-127\nCliente: Hospital Vida Nova\nImpacto do Problema: O OCR jurídico não está conseguindo interpretar cláusulas manuscritas em contratos digitalizados.\nE-mail de Contato: contato@vidanova.org\nDevolutiva da uAI: Estamos aplicando modelos híbridos de OCR e NLP especializados em linguagem jurídica.",
+      "data_incidente": "2025-02-02"
+    },
+    {
+      "ticket": "Identificador: TCK-2025-128\nCliente: Rede de Farmácias Saúde+\nImpacto do Problema: O sistema de classificação de imagens médicas está falhando em detectar microlesões.\nE-mail de Contato: contato@saudeplus.com\nDevolutiva da uAI: Estamos ampliando o dataset com imagens anotadas e aplicando data augmentation.",
+      "data_incidente": "2025-03-13"
+    },
+    {
+      "ticket": "Identificador: TCK-2025-129\nCliente: Banco Futuro\nImpacto do Problema: O sistema de classificação de imagens médicas está falhando em detectar microlesões.\nE-mail de Contato: suporte@bancofuturo.com\nDevolutiva da uAI: Estamos ampliando o dataset com imagens anotadas e aplicando data augmentation.",
+      "data_incidente": "2025-02-08"
+    },
+    {
+      "ticket": "Identificador: TCK-2025-130\nCliente: Construtora Beta\nImpacto do Problema: O OCR jurídico não está conseguindo interpretar cláusulas manuscritas em contratos digitalizados.\nE-mail de Contato: suporte@construtorabeta.com\nDevolutiva da uAI: Estamos aplicando modelos híbridos de OCR e NLP especializados em linguagem jurídica.",
+      "data_incidente": "2025-03-26"
+    },
+    {
+      "ticket": "Identificador: TCK-2025-131\nCliente: Banco Futuro\nImpacto do Problema: O sistema de classificação de imagens médicas está falhando em detectar microlesões.\nE-mail de Contato: suporte@bancofuturo.com\nDevolutiva da uAI: Estamos ampliando o dataset com imagens anotadas e aplicando data augmentation.",
+      "data_incidente": "2025-02-24"
+    },
+    {
+      "ticket": "Identificador: TCK-2025-132\nCliente: Construtora Beta\nImpacto do Problema: O chatbot de suporte em saúde não está reconhecendo sintomas raros descritos pelos pacientes.\nE-mail de Contato: suporte@construtorabeta.com\nDevolutiva da uAI: Estamos treinando o modelo com literatura médica adicional e ampliando a base de sintomas.",
+      "data_incidente": "2025-03-16"
+    },
+    {
+      "ticket": "Identificador: TCK-2025-133\nCliente: Metalúrgica Estrela\nImpacto do Problema: O gerador de relatórios automatizados está apresentando duplicidade de registros.\nE-mail de Contato: engenharia@estrela.ind.br\nDevolutiva da uAI: Estamos ajustando a lógica de deduplicação no pipeline de geração de relatórios.",
+      "data_incidente": "2025-02-24"
+    },
+    {
+      "ticket": "Identificador: TCK-2025-134\nCliente: Metalúrgica Estrela\nImpacto do Problema: O pipeline de Big Data não está processando logs de sensores em tempo real.\nE-mail de Contato: engenharia@estrela.ind.br\nDevolutiva da uAI: Estamos aumentando a capacidade de streaming e aplicando otimizações em Spark.",
+      "data_incidente": "2025-03-15"
+    },
+    {
+      "ticket": "Identificador: TCK-2025-135\nCliente: Seguros Horizonte\nImpacto do Problema: O gerador de relatórios automatizados está apresentando duplicidade de registros.\nE-mail de Contato: helpdesk@seguroshorizonte.com\nDevolutiva da uAI: Estamos ajustando a lógica de deduplicação no pipeline de geração de relatórios.",
+      "data_incidente": "2025-03-06"
+    },
+    {
+      "ticket": "Identificador: TCK-2025-136\nCliente: Banco Futuro\nImpacto do Problema: O modelo de NLP em inglês está misturando idiomas nas respostas.\nE-mail de Contato: suporte@bancofuturo.com\nDevolutiva da uAI: Estamos aplicando filtros de pré-processamento e embeddings multilíngues.",
+      "data_incidente": "2025-02-13"
+    },
+    {
+      "ticket": "Identificador: TCK-2025-137\nCliente: Construtora Beta\nImpacto do Problema: O sistema de análise de crédito está rejeitando clientes com bom histórico.\nE-mail de Contato: suporte@construtorabeta.com\nDevolutiva da uAI: Estamos aplicando técnicas de explainable AI para revisar as variáveis de decisão.",
+      "data_incidente": "2025-03-07"
+    },
+    {
+      "ticket": "Identificador: TCK-2025-138\nCliente: Universidade Federal Digital\nImpacto do Problema: O pipeline de Big Data não está processando logs de sensores em tempo real.\nE-mail de Contato: ti@ufdigital.edu.br\nDevolutiva da uAI: Estamos aumentando a capacidade de streaming e aplicando otimizações em Spark.",
+      "data_incidente": "2025-03-13"
+    },
+    {
+      "ticket": "Identificador: TCK-2025-139\nCliente: Rede de Farmácias Saúde+\nImpacto do Problema: O modelo de NLP em inglês está misturando idiomas nas respostas.\nE-mail de Contato: contato@saudeplus.com\nDevolutiva da uAI: Estamos aplicando filtros de pré-processamento e embeddings multilíngues.",
+      "data_incidente": "2025-03-11"
+    },
+    {
+      "ticket": "Identificador: TCK-2025-140\nCliente: Metalúrgica Estrela\nImpacto do Problema: O OCR jurídico não está conseguindo interpretar cláusulas manuscritas em contratos digitalizados.\nE-mail de Contato: engenharia@estrela.ind.br\nDevolutiva da uAI: Estamos aplicando modelos híbridos de OCR e NLP especializados em linguagem jurídica.",
+      "data_incidente": "2025-03-05"
+    },
+    {
+      "ticket": "Identificador: TCK-2025-141\nCliente: Seguros Horizonte\nImpacto do Problema: O chatbot de suporte em saúde não está reconhecendo sintomas raros descritos pelos pacientes.\nE-mail de Contato: helpdesk@seguroshorizonte.com\nDevolutiva da uAI: Estamos treinando o modelo com literatura médica adicional e ampliando a base de sintomas.",
+      "data_incidente": "2025-02-16"
+    },
+    {
+      "ticket": "Identificador: TCK-2025-142\nCliente: Hospital Vida Nova\nImpacto do Problema: O pipeline de Big Data não está processando logs de sensores em tempo real.\nE-mail de Contato: contato@vidanova.org\nDevolutiva da uAI: Estamos aumentando a capacidade de streaming e aplicando otimizações em Spark.",
+      "data_incidente": "2025-03-26"
+    },
+    {
+      "ticket": "Identificador: TCK-2025-143\nCliente: Metalúrgica Estrela\nImpacto do Problema: O sistema de classificação de imagens médicas está falhando em detectar microlesões.\nE-mail de Contato: engenharia@estrela.ind.br\nDevolutiva da uAI: Estamos ampliando o dataset com imagens anotadas e aplicando data augmentation.",
+      "data_incidente": "2025-02-22"
+    },
+    {
+      "ticket": "Identificador: TCK-2025-144\nCliente: Metalúrgica Estrela\nImpacto do Problema: O gerador de relatórios automatizados está apresentando duplicidade de registros.\nE-mail de Contato: engenharia@estrela.ind.br\nDevolutiva da uAI: Estamos ajustando a lógica de deduplicação no pipeline de geração de relatórios.",
+      "data_incidente": "2025-02-03"
+    },
+    {
+      "ticket": "Identificador: TCK-2025-145\nCliente: Universidade Federal Digital\nImpacto do Problema: O gerador de relatórios automatizados está apresentando duplicidade de registros.\nE-mail de Contato: ti@ufdigital.edu.br\nDevolutiva da uAI: Estamos ajustando a lógica de deduplicação no pipeline de geração de relatórios.",
+      "data_incidente": "2025-02-22"
+    },
+    {
+      "ticket": "Identificador: TCK-2025-146\nCliente: Seguros Horizonte\nImpacto do Problema: O gerador de relatórios automatizados está apresentando duplicidade de registros.\nE-mail de Contato: helpdesk@seguroshorizonte.com\nDevolutiva da uAI: Estamos ajustando a lógica de deduplicação no pipeline de geração de relatórios.",
+      "data_incidente": "2025-03-29"
+    },
+    {
+      "ticket": "Identificador: TCK-2025-147\nCliente: DataAnalytics Corp\nImpacto do Problema: O modelo de detecção de fraudes em transações online está com alta taxa de falso-negativo.\nE-mail de Contato: analytics@dacorp.com\nDevolutiva da uAI: Estamos ajustando hiperparâmetros e adicionando técnicas de ensemble learning.",
+      "data_incidente": "2025-03-28"
+    },
+    {
+      "ticket": "Identificador: TCK-2025-148\nCliente: Seguros Horizonte\nImpacto do Problema: O sistema de classificação de imagens médicas está falhando em detectar microlesões.\nE-mail de Contato: helpdesk@seguroshorizonte.com\nDevolutiva da uAI: Estamos ampliando o dataset com imagens anotadas e aplicando data augmentation.",
+      "data_incidente": "2025-02-19"
+    },
+    {
+      "ticket": "Identificador: TCK-2025-149\nCliente: Marketplace MegaShop\nImpacto do Problema: O sistema de classificação de imagens médicas está falhando em detectar microlesões.\nE-mail de Contato: suporte@megashop.com\nDevolutiva da uAI: Estamos ampliando o dataset com imagens anotadas e aplicando data augmentation.",
+      "data_incidente": "2025-02-16"
+    },
+    {
+      "ticket": "Identificador: TCK-2025-150\nCliente: Rede de Farmácias Saúde+\nImpacto do Problema: O pipeline de Big Data não está processando logs de sensores em tempo real.\nE-mail de Contato: contato@saudeplus.com\nDevolutiva da uAI: Estamos aumentando a capacidade de streaming e aplicando otimizações em Spark.",
+      "data_incidente": "2025-02-16"
+    },
+    {
+      "ticket": "Identificador: TCK-2025-151\nCliente: Universidade Federal Digital\nImpacto do Problema: O pipeline de Big Data não está processando logs de sensores em tempo real.\nE-mail de Contato: ti@ufdigital.edu.br\nDevolutiva da uAI: Estamos aumentando a capacidade de streaming e aplicando otimizações em Spark.",
+      "data_incidente": "2025-03-01"
+    },
+    {
+      "ticket": "Identificador: TCK-2025-152\nCliente: Hospital Vida Nova\nImpacto do Problema: O chatbot de suporte em saúde não está reconhecendo sintomas raros descritos pelos pacientes.\nE-mail de Contato: contato@vidanova.org\nDevolutiva da uAI: Estamos treinando o modelo com literatura médica adicional e ampliando a base de sintomas.",
+      "data_incidente": "2025-02-10"
+    },
+    {
+      "ticket": "Identificador: TCK-2025-153\nCliente: Banco Futuro\nImpacto do Problema: O gerador de relatórios automatizados está apresentando duplicidade de registros.\nE-mail de Contato: suporte@bancofuturo.com\nDevolutiva da uAI: Estamos ajustando a lógica de deduplicação no pipeline de geração de relatórios.",
+      "data_incidente": "2025-03-12"
+    },
+    {
+      "ticket": "Identificador: TCK-2025-154\nCliente: Banco Futuro\nImpacto do Problema: O chatbot de suporte em saúde não está reconhecendo sintomas raros descritos pelos pacientes.\nE-mail de Contato: suporte@bancofuturo.com\nDevolutiva da uAI: Estamos treinando o modelo com literatura médica adicional e ampliando a base de sintomas.",
+      "data_incidente": "2025-03-15"
+    },
+    {
+      "ticket": "Identificador: TCK-2025-155\nCliente: DataAnalytics Corp\nImpacto do Problema: O sistema de monitoramento preditivo de máquinas não está antecipando falhas críticas.\nE-mail de Contato: analytics@dacorp.com\nDevolutiva da uAI: Estamos revisando a janela temporal de análise e incorporando novos sensores ao modelo.",
+      "data_incidente": "2025-02-17"
+    },
+    {
+      "ticket": "Identificador: TCK-2025-156\nCliente: DataAnalytics Corp\nImpacto do Problema: O OCR jurídico não está conseguindo interpretar cláusulas manuscritas em contratos digitalizados.\nE-mail de Contato: analytics@dacorp.com\nDevolutiva da uAI: Estamos aplicando modelos híbridos de OCR e NLP especializados em linguagem jurídica.",
+      "data_incidente": "2025-03-19"
+    },
+    {
+      "ticket": "Identificador: TCK-2025-157\nCliente: Metalúrgica Estrela\nImpacto do Problema: O chatbot de suporte em saúde não está reconhecendo sintomas raros descritos pelos pacientes.\nE-mail de Contato: engenharia@estrela.ind.br\nDevolutiva da uAI: Estamos treinando o modelo com literatura médica adicional e ampliando a base de sintomas.",
+      "data_incidente": "2025-02-28"
+    },
+    {
+      "ticket": "Identificador: TCK-2025-158\nCliente: Rede de Farmácias Saúde+\nImpacto do Problema: O sistema de classificação de imagens médicas está falhando em detectar microlesões.\nE-mail de Contato: contato@saudeplus.com\nDevolutiva da uAI: Estamos ampliando o dataset com imagens anotadas e aplicando data augmentation.",
+      "data_incidente": "2025-04-02"
+    },
+    {
+      "ticket": "Identificador: TCK-2025-159\nCliente: Metalúrgica Estrela\nImpacto do Problema: O modelo de NLP em inglês está misturando idiomas nas respostas.\nE-mail de Contato: engenharia@estrela.ind.br\nDevolutiva da uAI: Estamos aplicando filtros de pré-processamento e embeddings multilíngues.",
+      "data_incidente": "2025-03-18"
+    },
+    {
+      "ticket": "Identificador: TCK-2025-160\nCliente: DataAnalytics Corp\nImpacto do Problema: O chatbot de suporte em saúde não está reconhecendo sintomas raros descritos pelos pacientes.\nE-mail de Contato: analytics@dacorp.com\nDevolutiva da uAI: Estamos treinando o modelo com literatura médica adicional e ampliando a base de sintomas.",
+      "data_incidente": "2025-02-06"
+    },
+    {
+      "ticket": "Identificador: TCK-2025-161\nCliente: Banco Futuro\nImpacto do Problema: O sistema de monitoramento preditivo de máquinas não está antecipando falhas críticas.\nE-mail de Contato: suporte@bancofuturo.com\nDevolutiva da uAI: Estamos revisando a janela temporal de análise e incorporando novos sensores ao modelo.",
+      "data_incidente": "2025-03-19"
+    },
+    {
+      "ticket": "Identificador: TCK-2025-162\nCliente: Banco Futuro\nImpacto do Problema: O sistema de classificação de imagens médicas está falhando em detectar microlesões.\nE-mail de Contato: suporte@bancofuturo.com\nDevolutiva da uAI: Estamos ampliando o dataset com imagens anotadas e aplicando data augmentation.",
+      "data_incidente": "2025-03-12"
+    },
+    {
+      "ticket": "Identificador: TCK-2025-163\nCliente: Seguros Horizonte\nImpacto do Problema: O sistema de monitoramento preditivo de máquinas não está antecipando falhas críticas.\nE-mail de Contato: helpdesk@seguroshorizonte.com\nDevolutiva da uAI: Estamos revisando a janela temporal de análise e incorporando novos sensores ao modelo.",
+      "data_incidente": "2025-04-01"
+    },
+    {
+      "ticket": "Identificador: TCK-2025-164\nCliente: Banco Futuro\nImpacto do Problema: O pipeline de Big Data não está processando logs de sensores em tempo real.\nE-mail de Contato: suporte@bancofuturo.com\nDevolutiva da uAI: Estamos aumentando a capacidade de streaming e aplicando otimizações em Spark.",
+      "data_incidente": "2025-02-06"
+    },
+    {
+      "ticket": "Identificador: TCK-2025-165\nCliente: Marketplace MegaShop\nImpacto do Problema: O modelo de NLP em inglês está misturando idiomas nas respostas.\nE-mail de Contato: suporte@megashop.com\nDevolutiva da uAI: Estamos aplicando filtros de pré-processamento e embeddings multilíngues.",
+      "data_incidente": "2025-03-04"
+    },
+    {
+      "ticket": "Identificador: TCK-2025-166\nCliente: Construtora Beta\nImpacto do Problema: O chatbot de suporte em saúde não está reconhecendo sintomas raros descritos pelos pacientes.\nE-mail de Contato: suporte@construtorabeta.com\nDevolutiva da uAI: Estamos treinando o modelo com literatura médica adicional e ampliando a base de sintomas.",
+      "data_incidente": "2025-03-15"
+    },
+    {
+      "ticket": "Identificador: TCK-2025-167\nCliente: Metalúrgica Estrela\nImpacto do Problema: O sistema de classificação de imagens médicas está falhando em detectar microlesões.\nE-mail de Contato: engenharia@estrela.ind.br\nDevolutiva da uAI: Estamos ampliando o dataset com imagens anotadas e aplicando data augmentation.",
+      "data_incidente": "2025-03-08"
+    },
+    {
+      "ticket": "Identificador: TCK-2025-168\nCliente: Rede de Farmácias Saúde+\nImpacto do Problema: O sistema de monitoramento preditivo de máquinas não está antecipando falhas críticas.\nE-mail de Contato: contato@saudeplus.com\nDevolutiva da uAI: Estamos revisando a janela temporal de análise e incorporando novos sensores ao modelo.",
+      "data_incidente": "2025-03-26"
+    },
+    {
+      "ticket": "Identificador: TCK-2025-169\nCliente: Hospital Vida Nova\nImpacto do Problema: O OCR jurídico não está conseguindo interpretar cláusulas manuscritas em contratos digitalizados.\nE-mail de Contato: contato@vidanova.org\nDevolutiva da uAI: Estamos aplicando modelos híbridos de OCR e NLP especializados em linguagem jurídica.",
+      "data_incidente": "2025-03-12"
+    },
+    {
+      "ticket": "Identificador: TCK-2025-170\nCliente: Banco Futuro\nImpacto do Problema: O OCR jurídico não está conseguindo interpretar cláusulas manuscritas em contratos digitalizados.\nE-mail de Contato: suporte@bancofuturo.com\nDevolutiva da uAI: Estamos aplicando modelos híbridos de OCR e NLP especializados em linguagem jurídica.",
+      "data_incidente": "2025-03-29"
+    },
+    {
+      "ticket": "Identificador: TCK-2025-171\nCliente: Metalúrgica Estrela\nImpacto do Problema: O motor de recomendação de investimentos está sugerindo ativos de risco alto para perfis conservadores.\nE-mail de Contato: engenharia@estrela.ind.br\nDevolutiva da uAI: Estamos ajustando o modelo de segmentação de clientes e recalibrando perfis de risco.",
+      "data_incidente": "2025-03-14"
+    },
+    {
+      "ticket": "Identificador: TCK-2025-172\nCliente: Clínica Bem Estar\nImpacto do Problema: O sistema de classificação de imagens médicas está falhando em detectar microlesões.\nE-mail de Contato: atendimento@bemestar.com\nDevolutiva da uAI: Estamos ampliando o dataset com imagens anotadas e aplicando data augmentation.",
+      "data_incidente": "2025-02-02"
+    },
+    {
+      "ticket": "Identificador: TCK-2025-173\nCliente: Banco Futuro\nImpacto do Problema: O sistema de análise de crédito está rejeitando clientes com bom histórico.\nE-mail de Contato: suporte@bancofuturo.com\nDevolutiva da uAI: Estamos aplicando técnicas de explainable AI para revisar as variáveis de decisão.",
+      "data_incidente": "2025-02-08"
+    },
+    {
+      "ticket": "Identificador: TCK-2025-174\nCliente: Hospital Vida Nova\nImpacto do Problema: O modelo de NLP em inglês está misturando idiomas nas respostas.\nE-mail de Contato: contato@vidanova.org\nDevolutiva da uAI: Estamos aplicando filtros de pré-processamento e embeddings multilíngues.",
+      "data_incidente": "2025-02-11"
+    },
+    {
+      "ticket": "Identificador: TCK-2025-175\nCliente: Metalúrgica Estrela\nImpacto do Problema: O pipeline de Big Data não está processando logs de sensores em tempo real.\nE-mail de Contato: engenharia@estrela.ind.br\nDevolutiva da uAI: Estamos aumentando a capacidade de streaming e aplicando otimizações em Spark.",
+      "data_incidente": "2025-02-18"
+    },
+    {
+      "ticket": "Identificador: TCK-2025-176\nCliente: Construtora Beta\nImpacto do Problema: O sistema de monitoramento preditivo de máquinas não está antecipando falhas críticas.\nE-mail de Contato: suporte@construtorabeta.com\nDevolutiva da uAI: Estamos revisando a janela temporal de análise e incorporando novos sensores ao modelo.",
+      "data_incidente": "2025-03-24"
+    },
+    {
+      "ticket": "Identificador: TCK-2025-177\nCliente: Banco Futuro\nImpacto do Problema: O sistema de monitoramento preditivo de máquinas não está antecipando falhas críticas.\nE-mail de Contato: suporte@bancofuturo.com\nDevolutiva da uAI: Estamos revisando a janela temporal de análise e incorporando novos sensores ao modelo.",
+      "data_incidente": "2025-03-13"
+    },
+    {
+      "ticket": "Identificador: TCK-2025-178\nCliente: Marketplace MegaShop\nImpacto do Problema: O gerador de relatórios automatizados está apresentando duplicidade de registros.\nE-mail de Contato: suporte@megashop.com\nDevolutiva da uAI: Estamos ajustando a lógica de deduplicação no pipeline de geração de relatórios.",
+      "data_incidente": "2025-02-10"
+    },
+    {
+      "ticket": "Identificador: TCK-2025-179\nCliente: Hospital Vida Nova\nImpacto do Problema: O sistema de classificação de imagens médicas está falhando em detectar microlesões.\nE-mail de Contato: contato@vidanova.org\nDevolutiva da uAI: Estamos ampliando o dataset com imagens anotadas e aplicando data augmentation.",
+      "data_incidente": "2025-03-30"
+    },
+    {
+      "ticket": "Identificador: TCK-2025-180\nCliente: Rede de Farmácias Saúde+\nImpacto do Problema: O sistema de análise de crédito está rejeitando clientes com bom histórico.\nE-mail de Contato: contato@saudeplus.com\nDevolutiva da uAI: Estamos aplicando técnicas de explainable AI para revisar as variáveis de decisão.",
+      "data_incidente": "2025-02-07"
+    },
+    {
+      "ticket": "Identificador: TCK-2025-181\nCliente: Construtora Beta\nImpacto do Problema: O modelo de detecção de fraudes em transações online está com alta taxa de falso-negativo.\nE-mail de Contato: suporte@construtorabeta.com\nDevolutiva da uAI: Estamos ajustando hiperparâmetros e adicionando técnicas de ensemble learning.",
+      "data_incidente": "2025-02-22"
+    },
+    {
+      "ticket": "Identificador: TCK-2025-182\nCliente: Metalúrgica Estrela\nImpacto do Problema: O chatbot de suporte em saúde não está reconhecendo sintomas raros descritos pelos pacientes.\nE-mail de Contato: engenharia@estrela.ind.br\nDevolutiva da uAI: Estamos treinando o modelo com literatura médica adicional e ampliando a base de sintomas.",
+      "data_incidente": "2025-03-10"
+    },
+    {
+      "ticket": "Identificador: TCK-2025-183\nCliente: Metalúrgica Estrela\nImpacto do Problema: O modelo de detecção de fraudes em transações online está com alta taxa de falso-negativo.\nE-mail de Contato: engenharia@estrela.ind.br\nDevolutiva da uAI: Estamos ajustando hiperparâmetros e adicionando técnicas de ensemble learning.",
+      "data_incidente": "2025-03-14"
+    },
+    {
+      "ticket": "Identificador: TCK-2025-184\nCliente: Construtora Beta\nImpacto do Problema: O sistema de monitoramento preditivo de máquinas não está antecipando falhas críticas.\nE-mail de Contato: suporte@construtorabeta.com\nDevolutiva da uAI: Estamos revisando a janela temporal de análise e incorporando novos sensores ao modelo.",
+      "data_incidente": "2025-02-06"
+    },
+    {
+      "ticket": "Identificador: TCK-2025-185\nCliente: Construtora Beta\nImpacto do Problema: O modelo de NLP em inglês está misturando idiomas nas respostas.\nE-mail de Contato: suporte@construtorabeta.com\nDevolutiva da uAI: Estamos aplicando filtros de pré-processamento e embeddings multilíngues.",
+      "data_incidente": "2025-02-20"
+    },
+    {
+      "ticket": "Identificador: TCK-2025-186\nCliente: Seguros Horizonte\nImpacto do Problema: O chatbot de suporte em saúde não está reconhecendo sintomas raros descritos pelos pacientes.\nE-mail de Contato: helpdesk@seguroshorizonte.com\nDevolutiva da uAI: Estamos treinando o modelo com literatura médica adicional e ampliando a base de sintomas.",
+      "data_incidente": "2025-03-01"
+    },
+    {
+      "ticket": "Identificador: TCK-2025-187\nCliente: Seguros Horizonte\nImpacto do Problema: O OCR jurídico não está conseguindo interpretar cláusulas manuscritas em contratos digitalizados.\nE-mail de Contato: helpdesk@seguroshorizonte.com\nDevolutiva da uAI: Estamos aplicando modelos híbridos de OCR e NLP especializados em linguagem jurídica.",
+      "data_incidente": "2025-03-28"
+    },
+    {
+      "ticket": "Identificador: TCK-2025-188\nCliente: Rede de Farmácias Saúde+\nImpacto do Problema: O chatbot de suporte em saúde não está reconhecendo sintomas raros descritos pelos pacientes.\nE-mail de Contato: contato@saudeplus.com\nDevolutiva da uAI: Estamos treinando o modelo com literatura médica adicional e ampliando a base de sintomas.",
+      "data_incidente": "2025-02-18"
+    },
+    {
+      "ticket": "Identificador: TCK-2025-189\nCliente: Banco Futuro\nImpacto do Problema: O OCR jurídico não está conseguindo interpretar cláusulas manuscritas em contratos digitalizados.\nE-mail de Contato: suporte@bancofuturo.com\nDevolutiva da uAI: Estamos aplicando modelos híbridos de OCR e NLP especializados em linguagem jurídica.",
+      "data_incidente": "2025-02-09"
+    },
+    {
+      "ticket": "Identificador: TCK-2025-190\nCliente: Clínica Bem Estar\nImpacto do Problema: O pipeline de Big Data não está processando logs de sensores em tempo real.\nE-mail de Contato: atendimento@bemestar.com\nDevolutiva da uAI: Estamos aumentando a capacidade de streaming e aplicando otimizações em Spark.",
+      "data_incidente": "2025-02-21"
+    },
+    {
+      "ticket": "Identificador: TCK-2025-191\nCliente: Metalúrgica Estrela\nImpacto do Problema: O pipeline de Big Data não está processando logs de sensores em tempo real.\nE-mail de Contato: engenharia@estrela.ind.br\nDevolutiva da uAI: Estamos aumentando a capacidade de streaming e aplicando otimizações em Spark.",
+      "data_incidente": "2025-02-24"
+    },
+    {
+      "ticket": "Identificador: TCK-2025-192\nCliente: DataAnalytics Corp\nImpacto do Problema: O gerador de relatórios automatizados está apresentando duplicidade de registros.\nE-mail de Contato: analytics@dacorp.com\nDevolutiva da uAI: Estamos ajustando a lógica de deduplicação no pipeline de geração de relatórios.",
+      "data_incidente": "2025-02-27"
+    },
+    {
+      "ticket": "Identificador: TCK-2025-193\nCliente: Seguros Horizonte\nImpacto do Problema: O pipeline de Big Data não está processando logs de sensores em tempo real.\nE-mail de Contato: helpdesk@seguroshorizonte.com\nDevolutiva da uAI: Estamos aumentando a capacidade de streaming e aplicando otimizações em Spark.",
+      "data_incidente": "2025-02-01"
+    },
+    {
+      "ticket": "Identificador: TCK-2025-194\nCliente: Seguros Horizonte\nImpacto do Problema: O gerador de relatórios automatizados está apresentando duplicidade de registros.\nE-mail de Contato: helpdesk@seguroshorizonte.com\nDevolutiva da uAI: Estamos ajustando a lógica de deduplicação no pipeline de geração de relatórios.",
+      "data_incidente": "2025-03-30"
+    },
+    {
+      "ticket": "Identificador: TCK-2025-195\nCliente: Clínica Bem Estar\nImpacto do Problema: O OCR jurídico não está conseguindo interpretar cláusulas manuscritas em contratos digitalizados.\nE-mail de Contato: atendimento@bemestar.com\nDevolutiva da uAI: Estamos aplicando modelos híbridos de OCR e NLP especializados em linguagem jurídica.",
+      "data_incidente": "2025-03-14"
+    },
+    {
+      "ticket": "Identificador: TCK-2025-196\nCliente: DataAnalytics Corp\nImpacto do Problema: O pipeline de Big Data não está processando logs de sensores em tempo real.\nE-mail de Contato: analytics@dacorp.com\nDevolutiva da uAI: Estamos aumentando a capacidade de streaming e aplicando otimizações em Spark.",
+      "data_incidente": "2025-02-06"
+    },
+    {
+      "ticket": "Identificador: TCK-2025-197\nCliente: Marketplace MegaShop\nImpacto do Problema: O sistema de classificação de imagens médicas está falhando em detectar microlesões.\nE-mail de Contato: suporte@megashop.com\nDevolutiva da uAI: Estamos ampliando o dataset com imagens anotadas e aplicando data augmentation.",
+      "data_incidente": "2025-02-27"
+    },
+    {
+      "ticket": "Identificador: TCK-2025-198\nCliente: Marketplace MegaShop\nImpacto do Problema: O modelo de NLP em inglês está misturando idiomas nas respostas.\nE-mail de Contato: suporte@megashop.com\nDevolutiva da uAI: Estamos aplicando filtros de pré-processamento e embeddings multilíngues.",
+      "data_incidente": "2025-03-31"
+    },
+    {
+      "ticket": "Identificador: TCK-2025-199\nCliente: Construtora Beta\nImpacto do Problema: O OCR jurídico não está conseguindo interpretar cláusulas manuscritas em contratos digitalizados.\nE-mail de Contato: suporte@construtorabeta.com\nDevolutiva da uAI: Estamos aplicando modelos híbridos de OCR e NLP especializados em linguagem jurídica.",
+      "data_incidente": "2025-02-01"
+    },
+    {
+      "ticket": "Identificador: TCK-2025-200\nCliente: Universidade Federal Digital\nImpacto do Problema: O chatbot de suporte em saúde não está reconhecendo sintomas raros descritos pelos pacientes.\nE-mail de Contato: ti@ufdigital.edu.br\nDevolutiva da uAI: Estamos treinando o modelo com literatura médica adicional e ampliando a base de sintomas.",
+      "data_incidente": "2025-02-10"
+    },
+    {
+      "ticket": "Identificador: TCK-2025-201\nCliente: Clínica Bem Estar\nImpacto do Problema: O modelo de detecção de fraudes em transações online está com alta taxa de falso-negativo.\nE-mail de Contato: atendimento@bemestar.com\nDevolutiva da uAI: Estamos ajustando hiperparâmetros e adicionando técnicas de ensemble learning.",
+      "data_incidente": "2025-03-12"
+    },
+    {
+      "ticket": "Identificador: TCK-2025-202\nCliente: Construtora Beta\nImpacto do Problema: O sistema de classificação de imagens médicas está falhando em detectar microlesões.\nE-mail de Contato: suporte@construtorabeta.com\nDevolutiva da uAI: Estamos ampliando o dataset com imagens anotadas e aplicando data augmentation.",
+      "data_incidente": "2025-03-13"
+    },
+    {
+      "ticket": "Identificador: TCK-2025-203\nCliente: Banco Futuro\nImpacto do Problema: O pipeline de Big Data não está processando logs de sensores em tempo real.\nE-mail de Contato: suporte@bancofuturo.com\nDevolutiva da uAI: Estamos aumentando a capacidade de streaming e aplicando otimizações em Spark.",
+      "data_incidente": "2025-02-26"
+    },
+    {
+      "ticket": "Identificador: TCK-2025-204\nCliente: Seguros Horizonte\nImpacto do Problema: O modelo de NLP em inglês está misturando idiomas nas respostas.\nE-mail de Contato: helpdesk@seguroshorizonte.com\nDevolutiva da uAI: Estamos aplicando filtros de pré-processamento e embeddings multilíngues.",
+      "data_incidente": "2025-02-10"
+    },
+    {
+      "ticket": "Identificador: TCK-2025-205\nCliente: Universidade Federal Digital\nImpacto do Problema: O modelo de NLP em inglês está misturando idiomas nas respostas.\nE-mail de Contato: ti@ufdigital.edu.br\nDevolutiva da uAI: Estamos aplicando filtros de pré-processamento e embeddings multilíngues.",
+      "data_incidente": "2025-02-26"
+    },
+    {
+      "ticket": "Identificador: TCK-2025-206\nCliente: Metalúrgica Estrela\nImpacto do Problema: O sistema de análise de crédito está rejeitando clientes com bom histórico.\nE-mail de Contato: engenharia@estrela.ind.br\nDevolutiva da uAI: Estamos aplicando técnicas de explainable AI para revisar as variáveis de decisão.",
+      "data_incidente": "2025-02-26"
+    },
+    {
+      "ticket": "Identificador: TCK-2025-207\nCliente: Clínica Bem Estar\nImpacto do Problema: O pipeline de Big Data não está processando logs de sensores em tempo real.\nE-mail de Contato: atendimento@bemestar.com\nDevolutiva da uAI: Estamos aumentando a capacidade de streaming e aplicando otimizações em Spark.",
+      "data_incidente": "2025-02-03"
+    },
+    {
+      "ticket": "Identificador: TCK-2025-208\nCliente: Construtora Beta\nImpacto do Problema: O gerador de relatórios automatizados está apresentando duplicidade de registros.\nE-mail de Contato: suporte@construtorabeta.com\nDevolutiva da uAI: Estamos ajustando a lógica de deduplicação no pipeline de geração de relatórios.",
+      "data_incidente": "2025-03-21"
+    },
+    {
+      "ticket": "Identificador: TCK-2025-209\nCliente: Marketplace MegaShop\nImpacto do Problema: O pipeline de Big Data não está processando logs de sensores em tempo real.\nE-mail de Contato: suporte@megashop.com\nDevolutiva da uAI: Estamos aumentando a capacidade de streaming e aplicando otimizações em Spark.",
+      "data_incidente": "2025-04-01"
+    },
+    {
+      "ticket": "Identificador: TCK-2025-210\nCliente: Rede de Farmácias Saúde+\nImpacto do Problema: O OCR jurídico não está conseguindo interpretar cláusulas manuscritas em contratos digitalizados.\nE-mail de Contato: contato@saudeplus.com\nDevolutiva da uAI: Estamos aplicando modelos híbridos de OCR e NLP especializados em linguagem jurídica.",
+      "data_incidente": "2025-03-07"
+    },
+    {
+      "ticket": "Identificador: TCK-2025-211\nCliente: Rede de Farmácias Saúde+\nImpacto do Problema: O chatbot de suporte em saúde não está reconhecendo sintomas raros descritos pelos pacientes.\nE-mail de Contato: contato@saudeplus.com\nDevolutiva da uAI: Estamos treinando o modelo com literatura médica adicional e ampliando a base de sintomas.",
+      "data_incidente": "2025-02-25"
+    },
+    {
+      "ticket": "Identificador: TCK-2025-212\nCliente: Marketplace MegaShop\nImpacto do Problema: O gerador de relatórios automatizados está apresentando duplicidade de registros.\nE-mail de Contato: suporte@megashop.com\nDevolutiva da uAI: Estamos ajustando a lógica de deduplicação no pipeline de geração de relatórios.",
+      "data_incidente": "2025-03-13"
+    },
+    {
+      "ticket": "Identificador: TCK-2025-213\nCliente: Banco Futuro\nImpacto do Problema: O pipeline de Big Data não está processando logs de sensores em tempo real.\nE-mail de Contato: suporte@bancofuturo.com\nDevolutiva da uAI: Estamos aumentando a capacidade de streaming e aplicando otimizações em Spark.",
+      "data_incidente": "2025-02-04"
+    },
+    {
+      "ticket": "Identificador: TCK-2025-214\nCliente: Banco Futuro\nImpacto do Problema: O pipeline de Big Data não está processando logs de sensores em tempo real.\nE-mail de Contato: suporte@bancofuturo.com\nDevolutiva da uAI: Estamos aumentando a capacidade de streaming e aplicando otimizações em Spark.",
+      "data_incidente": "2025-03-06"
+    },
+    {
+      "ticket": "Identificador: TCK-2025-215\nCliente: Banco Futuro\nImpacto do Problema: O modelo de detecção de fraudes em transações online está com alta taxa de falso-negativo.\nE-mail de Contato: suporte@bancofuturo.com\nDevolutiva da uAI: Estamos ajustando hiperparâmetros e adicionando técnicas de ensemble learning.",
+      "data_incidente": "2025-02-13"
+    },
+    {
+      "ticket": "Identificador: TCK-2025-216\nCliente: Universidade Federal Digital\nImpacto do Problema: O sistema de classificação de imagens médicas está falhando em detectar microlesões.\nE-mail de Contato: ti@ufdigital.edu.br\nDevolutiva da uAI: Estamos ampliando o dataset com imagens anotadas e aplicando data augmentation.",
+      "data_incidente": "2025-02-25"
+    },
+    {
+      "ticket": "Identificador: TCK-2025-217\nCliente: Hospital Vida Nova\nImpacto do Problema: O modelo de NLP em inglês está misturando idiomas nas respostas.\nE-mail de Contato: contato@vidanova.org\nDevolutiva da uAI: Estamos aplicando filtros de pré-processamento e embeddings multilíngues.",
+      "data_incidente": "2025-03-03"
+    },
+    {
+      "ticket": "Identificador: TCK-2025-218\nCliente: Clínica Bem Estar\nImpacto do Problema: O OCR jurídico não está conseguindo interpretar cláusulas manuscritas em contratos digitalizados.\nE-mail de Contato: atendimento@bemestar.com\nDevolutiva da uAI: Estamos aplicando modelos híbridos de OCR e NLP especializados em linguagem jurídica.",
+      "data_incidente": "2025-03-10"
+    },
+    {
+      "ticket": "Identificador: TCK-2025-219\nCliente: Construtora Beta\nImpacto do Problema: O modelo de NLP em inglês está misturando idiomas nas respostas.\nE-mail de Contato: suporte@construtorabeta.com\nDevolutiva da uAI: Estamos aplicando filtros de pré-processamento e embeddings multilíngues.",
+      "data_incidente": "2025-03-12"
+    },
+    {
+      "ticket": "Identificador: TCK-2025-220\nCliente: Banco Futuro\nImpacto do Problema: O chatbot de suporte em saúde não está reconhecendo sintomas raros descritos pelos pacientes.\nE-mail de Contato: suporte@bancofuturo.com\nDevolutiva da uAI: Estamos treinando o modelo com literatura médica adicional e ampliando a base de sintomas.",
+      "data_incidente": "2025-03-04"
+    },
+    {
+      "ticket": "Identificador: TCK-2025-221\nCliente: Construtora Beta\nImpacto do Problema: O sistema de análise de crédito está rejeitando clientes com bom histórico.\nE-mail de Contato: suporte@construtorabeta.com\nDevolutiva da uAI: Estamos aplicando técnicas de explainable AI para revisar as variáveis de decisão.",
+      "data_incidente": "2025-02-07"
+    },
+    {
+      "ticket": "Identificador: TCK-2025-222\nCliente: Seguros Horizonte\nImpacto do Problema: O chatbot de suporte em saúde não está reconhecendo sintomas raros descritos pelos pacientes.\nE-mail de Contato: helpdesk@seguroshorizonte.com\nDevolutiva da uAI: Estamos treinando o modelo com literatura médica adicional e ampliando a base de sintomas.",
+      "data_incidente": "2025-02-23"
+    },
+    {
+      "ticket": "Identificador: TCK-2025-223\nCliente: Marketplace MegaShop\nImpacto do Problema: O sistema de análise de crédito está rejeitando clientes com bom histórico.\nE-mail de Contato: suporte@megashop.com\nDevolutiva da uAI: Estamos aplicando técnicas de explainable AI para revisar as variáveis de decisão.",
+      "data_incidente": "2025-02-27"
+    },
+    {
+      "ticket": "Identificador: TCK-2025-224\nCliente: Construtora Beta\nImpacto do Problema: O sistema de análise de crédito está rejeitando clientes com bom histórico.\nE-mail de Contato: suporte@construtorabeta.com\nDevolutiva da uAI: Estamos aplicando técnicas de explainable AI para revisar as variáveis de decisão.",
+      "data_incidente": "2025-03-23"
+    },
+    {
+      "ticket": "Identificador: TCK-2025-225\nCliente: Hospital Vida Nova\nImpacto do Problema: O modelo de NLP em inglês está misturando idiomas nas respostas.\nE-mail de Contato: contato@vidanova.org\nDevolutiva da uAI: Estamos aplicando filtros de pré-processamento e embeddings multilíngues.",
+      "data_incidente": "2025-02-07"
+    },
+    {
+      "ticket": "Identificador: TCK-2025-226\nCliente: Construtora Beta\nImpacto do Problema: O modelo de detecção de fraudes em transações online está com alta taxa de falso-negativo.\nE-mail de Contato: suporte@construtorabeta.com\nDevolutiva da uAI: Estamos ajustando hiperparâmetros e adicionando técnicas de ensemble learning.",
+      "data_incidente": "2025-02-17"
+    },
+    {
+      "ticket": "Identificador: TCK-2025-227\nCliente: Universidade Federal Digital\nImpacto do Problema: O pipeline de Big Data não está processando logs de sensores em tempo real.\nE-mail de Contato: ti@ufdigital.edu.br\nDevolutiva da uAI: Estamos aumentando a capacidade de streaming e aplicando otimizações em Spark.",
+      "data_incidente": "2025-03-10"
+    },
+    {
+      "ticket": "Identificador: TCK-2025-228\nCliente: Hospital Vida Nova\nImpacto do Problema: O modelo de NLP em inglês está misturando idiomas nas respostas.\nE-mail de Contato: contato@vidanova.org\nDevolutiva da uAI: Estamos aplicando filtros de pré-processamento e embeddings multilíngues.",
+      "data_incidente": "2025-02-09"
+    },
+    {
+      "ticket": "Identificador: TCK-2025-229\nCliente: Hospital Vida Nova\nImpacto do Problema: O gerador de relatórios automatizados está apresentando duplicidade de registros.\nE-mail de Contato: contato@vidanova.org\nDevolutiva da uAI: Estamos ajustando a lógica de deduplicação no pipeline de geração de relatórios.",
+      "data_incidente": "2025-02-22"
+    },
+    {
+      "ticket": "Identificador: TCK-2025-230\nCliente: Rede de Farmácias Saúde+\nImpacto do Problema: O modelo de detecção de fraudes em transações online está com alta taxa de falso-negativo.\nE-mail de Contato: contato@saudeplus.com\nDevolutiva da uAI: Estamos ajustando hiperparâmetros e adicionando técnicas de ensemble learning.",
+      "data_incidente": "2025-03-02"
+    },
+    {
+      "ticket": "Identificador: TCK-2025-231\nCliente: Seguros Horizonte\nImpacto do Problema: O modelo de NLP em inglês está misturando idiomas nas respostas.\nE-mail de Contato: helpdesk@seguroshorizonte.com\nDevolutiva da uAI: Estamos aplicando filtros de pré-processamento e embeddings multilíngues.",
+      "data_incidente": "2025-02-22"
+    },
+    {
+      "ticket": "Identificador: TCK-2025-232\nCliente: Clínica Bem Estar\nImpacto do Problema: O pipeline de Big Data não está processando logs de sensores em tempo real.\nE-mail de Contato: atendimento@bemestar.com\nDevolutiva da uAI: Estamos aumentando a capacidade de streaming e aplicando otimizações em Spark.",
+      "data_incidente": "2025-03-14"
+    },
+    {
+      "ticket": "Identificador: TCK-2025-233\nCliente: Seguros Horizonte\nImpacto do Problema: O chatbot de suporte em saúde não está reconhecendo sintomas raros descritos pelos pacientes.\nE-mail de Contato: helpdesk@seguroshorizonte.com\nDevolutiva da uAI: Estamos treinando o modelo com literatura médica adicional e ampliando a base de sintomas.",
+      "data_incidente": "2025-02-01"
+    },
+    {
+      "ticket": "Identificador: TCK-2025-234\nCliente: DataAnalytics Corp\nImpacto do Problema: O sistema de monitoramento preditivo de máquinas não está antecipando falhas críticas.\nE-mail de Contato: analytics@dacorp.com\nDevolutiva da uAI: Estamos revisando a janela temporal de análise e incorporando novos sensores ao modelo.",
+      "data_incidente": "2025-03-31"
+    },
+    {
+      "ticket": "Identificador: TCK-2025-235\nCliente: DataAnalytics Corp\nImpacto do Problema: O sistema de monitoramento preditivo de máquinas não está antecipando falhas críticas.\nE-mail de Contato: analytics@dacorp.com\nDevolutiva da uAI: Estamos revisando a janela temporal de análise e incorporando novos sensores ao modelo.",
+      "data_incidente": "2025-03-30"
+    },
+    {
+      "ticket": "Identificador: TCK-2025-236\nCliente: Construtora Beta\nImpacto do Problema: O modelo de NLP em inglês está misturando idiomas nas respostas.\nE-mail de Contato: suporte@construtorabeta.com\nDevolutiva da uAI: Estamos aplicando filtros de pré-processamento e embeddings multilíngues.",
+      "data_incidente": "2025-02-26"
+    },
+    {
+      "ticket": "Identificador: TCK-2025-237\nCliente: Universidade Federal Digital\nImpacto do Problema: O sistema de análise de crédito está rejeitando clientes com bom histórico.\nE-mail de Contato: ti@ufdigital.edu.br\nDevolutiva da uAI: Estamos aplicando técnicas de explainable AI para revisar as variáveis de decisão.",
+      "data_incidente": "2025-02-27"
+    },
+    {
+      "ticket": "Identificador: TCK-2025-238\nCliente: Clínica Bem Estar\nImpacto do Problema: O sistema de classificação de imagens médicas está falhando em detectar microlesões.\nE-mail de Contato: atendimento@bemestar.com\nDevolutiva da uAI: Estamos ampliando o dataset com imagens anotadas e aplicando data augmentation.",
+      "data_incidente": "2025-03-10"
+    },
+    {
+      "ticket": "Identificador: TCK-2025-239\nCliente: Rede de Farmácias Saúde+\nImpacto do Problema: O sistema de classificação de imagens médicas está falhando em detectar microlesões.\nE-mail de Contato: contato@saudeplus.com\nDevolutiva da uAI: Estamos ampliando o dataset com imagens anotadas e aplicando data augmentation.",
+      "data_incidente": "2025-02-03"
+    },
+    {
+      "ticket": "Identificador: TCK-2025-240\nCliente: Rede de Farmácias Saúde+\nImpacto do Problema: O OCR jurídico não está conseguindo interpretar cláusulas manuscritas em contratos digitalizados.\nE-mail de Contato: contato@saudeplus.com\nDevolutiva da uAI: Estamos aplicando modelos híbridos de OCR e NLP especializados em linguagem jurídica.",
+      "data_incidente": "2025-02-11"
+    },
+    {
+      "ticket": "Identificador: TCK-2025-241\nCliente: Marketplace MegaShop\nImpacto do Problema: O modelo de NLP em inglês está misturando idiomas nas respostas.\nE-mail de Contato: suporte@megashop.com\nDevolutiva da uAI: Estamos aplicando filtros de pré-processamento e embeddings multilíngues.",
+      "data_incidente": "2025-02-21"
+    },
+    {
+      "ticket": "Identificador: TCK-2025-242\nCliente: DataAnalytics Corp\nImpacto do Problema: O OCR jurídico não está conseguindo interpretar cláusulas manuscritas em contratos digitalizados.\nE-mail de Contato: analytics@dacorp.com\nDevolutiva da uAI: Estamos aplicando modelos híbridos de OCR e NLP especializados em linguagem jurídica.",
+      "data_incidente": "2025-03-18"
+    },
+    {
+      "ticket": "Identificador: TCK-2025-243\nCliente: Banco Futuro\nImpacto do Problema: O sistema de classificação de imagens médicas está falhando em detectar microlesões.\nE-mail de Contato: suporte@bancofuturo.com\nDevolutiva da uAI: Estamos ampliando o dataset com imagens anotadas e aplicando data augmentation.",
+      "data_incidente": "2025-03-05"
+    },
+    {
+      "ticket": "Identificador: TCK-2025-244\nCliente: Hospital Vida Nova\nImpacto do Problema: O sistema de monitoramento preditivo de máquinas não está antecipando falhas críticas.\nE-mail de Contato: contato@vidanova.org\nDevolutiva da uAI: Estamos revisando a janela temporal de análise e incorporando novos sensores ao modelo.",
+      "data_incidente": "2025-02-01"
+    },
+    {
+      "ticket": "Identificador: TCK-2025-245\nCliente: DataAnalytics Corp\nImpacto do Problema: O sistema de análise de crédito está rejeitando clientes com bom histórico.\nE-mail de Contato: analytics@dacorp.com\nDevolutiva da uAI: Estamos aplicando técnicas de explainable AI para revisar as variáveis de decisão.",
+      "data_incidente": "2025-02-19"
+    },
+    {
+      "ticket": "Identificador: TCK-2025-246\nCliente: Marketplace MegaShop\nImpacto do Problema: O gerador de relatórios automatizados está apresentando duplicidade de registros.\nE-mail de Contato: suporte@megashop.com\nDevolutiva da uAI: Estamos ajustando a lógica de deduplicação no pipeline de geração de relatórios.",
+      "data_incidente": "2025-02-11"
+    },
+    {
+      "ticket": "Identificador: TCK-2025-247\nCliente: Universidade Federal Digital\nImpacto do Problema: O OCR jurídico não está conseguindo interpretar cláusulas manuscritas em contratos digitalizados.\nE-mail de Contato: ti@ufdigital.edu.br\nDevolutiva da uAI: Estamos aplicando modelos híbridos de OCR e NLP especializados em linguagem jurídica.",
+      "data_incidente": "2025-02-13"
+    },
+    {
+      "ticket": "Identificador: TCK-2025-248\nCliente: Construtora Beta\nImpacto do Problema: O gerador de relatórios automatizados está apresentando duplicidade de registros.\nE-mail de Contato: suporte@construtorabeta.com\nDevolutiva da uAI: Estamos ajustando a lógica de deduplicação no pipeline de geração de relatórios.",
+      "data_incidente": "2025-02-01"
+    },
+    {
+      "ticket": "Identificador: TCK-2025-249\nCliente: Universidade Federal Digital\nImpacto do Problema: O sistema de análise de crédito está rejeitando clientes com bom histórico.\nE-mail de Contato: ti@ufdigital.edu.br\nDevolutiva da uAI: Estamos aplicando técnicas de explainable AI para revisar as variáveis de decisão.",
+      "data_incidente": "2025-02-18"
+    },
+    {
+      "ticket": "Identificador: TCK-2025-250\nCliente: Construtora Beta\nImpacto do Problema: O chatbot de suporte em saúde não está reconhecendo sintomas raros descritos pelos pacientes.\nE-mail de Contato: suporte@construtorabeta.com\nDevolutiva da uAI: Estamos treinando o modelo com literatura médica adicional e ampliando a base de sintomas.",
+      "data_incidente": "2025-03-18"
+    }
+  ]
+}
